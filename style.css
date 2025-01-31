@@ -39,20 +39,26 @@
     color: #FFFFFFB2;
 }
 
-.customize{
+.customize {
     background-color: #5454D4;
     border: none;
     border-radius: 3px;
 }
 
-.customize:hover{
+.customize:hover {
     background-color: #3232a0;
     border: none;
     border-radius: 3px;
 }
 
-.bg{
+.bg {
     height: 600px !important;
     background-image: url(images/consult.png);
+    background-size: cover;
     background-repeat: no-repeat;
+}
+
+.box{
+    height: 250px !important;
+    width: 300px !important;
 }
